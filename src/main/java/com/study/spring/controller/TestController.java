@@ -28,7 +28,7 @@ public class TestController {
 	
 	@GetMapping("/")
 	public String test() {
-		return "hello spring";
+		return "hello spring now1";
 	}
 	
 	@PostMapping("/test")
